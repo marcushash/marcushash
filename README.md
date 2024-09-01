@@ -16,7 +16,7 @@
 
 I'm Thejal M, also known as `marcushash` on GitHub. I’m passionate about cybersecurity and fitness. 
 
-💻 My expertise includes [insert your key skills or technologies related to cybersecurity].
+💻 My expertise includes [Your Key Skills or Technologies related to cybersecurity].
 
 💪 When I'm not diving into security challenges, you’ll find me at the gym, lifting weights and staying fit.
 
@@ -30,16 +30,16 @@ If you appreciate my work, feel free to buy me a coffee! 👉👈
 
 <h2 style="text-align: center;">👨‍💻 Repositories 👨‍💻</h2>
 
-<!-- Repo info cards -->
+<!-- Updated Repo Info Cards -->
 <p align="center">
-  <a href="https://github.com/marcushash/ASUS-TUF-A15-HACKINTOSH">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=marcushash&repo=ASUS-TUF-A15-HACKINTOSH&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="ASUS TUF A15 Hackintosh"/>
-  </a>
   <a href="https://github.com/marcushash/CODSOFT">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=marcushash&repo=CODSOFT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="CODSOFT"/>
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=marcushash&repo=CODSOFT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="CODSOFT"/>
   </a>
-  <a href="https://github.com/marcushash/Ethiguard-Dark-Pattern-Buster">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=marcushash&repo=Ethiguard-Dark-Pattern-Buster&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Ethiguard Dark Pattern Buster"/>
+  <a href="https://github.com/marcushash/ASUS-TUF-A15-HACKINTOSH">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=marcushash&repo=ASUS-TUF-A15-HACKINTOSH&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="ASUS TUF A15 Hackintosh"/>
+  </a>
+  <a href="https://github.com/marcushash/NootedRed">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=marcushash&repo=NootedRed&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="NootedRed"/>
   </a>
 </p>
 
