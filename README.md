@@ -23,22 +23,27 @@ I'm Thejal M, also known as `marcushash` on GitHub. I’m currently pursuing a B
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-💪 When I'm not diving into security challenges, you’ll find me at the gym, lifting weights and staying fit.
+💪 When I'm not diving into cyber maze, you’ll find me at the gym, lifting weights and staying fit, or hitting limiter on my rc390.
 
 If you appreciate my work, feel free to buy me a coffee! 👉👈
 
 <a href="https://buymeacoffee.com/marcushash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<h2>🎶 Feel Free To Listen 🎵</h2>
+
+Check out my Spotify profile and enjoy some tunes:
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=k8gw1fizupknhfzbcaloidcgt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdrODlzMW9jOGk2N3RidnZpMTR2MjJxaWxwbGp4ejNqeXRhM202ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y32JWKnlPhrFVwOSm1/giphy.gif" alt="Fun GIF" width="100">
+
 ## Contribution Graph 🎮
 
-Here is a visual representation of my contributions:
-
 ![Snake GIF](https://github.com/marcushash/marcushash/blob/output/github-contribution-grid-snake.gif)  
-📊 ![Dark Mode Snake SVG](https://github.com/marcushash/marcushash/blob/output/github-snake-dark.svg)  
+![Dark Mode Snake SVG](https://github.com/marcushash/marcushash/blob/output/github-snake-dark.svg)  
 
 <h2 style="text-align: center;">👨‍💻 Repositories 👨‍💻</h2>
 
-<!-- Updated Repo Info Cards -->
 <p align="center">
   <a href="https://github.com/marcushash/CODSOFT">
     <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=marcushash&repo=CODSOFT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="CODSOFT"/>
