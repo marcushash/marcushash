@@ -14,24 +14,26 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/marcushash/marcushash/main/wave.gif" width="30px">
 
-I'm Thejal M, also known as `marcushash` on GitHub. I’m currently pursuing a B.Sc. in Information Technology with a specialization in Data Science.
+I'm Thejal M, also known as `marcushash` on GitHub. I’m currently pursuing a BSc in Information Technology with Data Science specialization.
 
 💻 My expertise includes:
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- C++
+- JavaScript
+- HTML
+- PHP
+- CSS
 
-💪 When I'm not diving into coding challenges, you’ll find me at the gym, lifting weights and staying fit.
+💪 When I'm not diving into security challenges, you’ll find me at the gym, lifting weights and staying fit.
 
 If you appreciate my work, feel free to buy me a coffee! 👉👈
 
 <a href="https://buymeacoffee.com/marcushash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-## GitHub Stats
+## Contribution Graph
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcushash&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
+![Snake GIF](https://github.com/marcushash/marcushash/blob/output/github-contribution-grid-snake.gif)
+![Dark Mode Snake SVG](https://github.com/marcushash/marcushash/blob/output/github-snake-dark.svg)
+![Light Mode Snake SVG](https://github.com/marcushash/marcushash/blob/output/github-snake.svg)
 
 <h2 style="text-align: center;">👨‍💻 Repositories 👨‍💻</h2>
 
