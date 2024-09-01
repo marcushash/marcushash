@@ -6,19 +6,24 @@
   </a>
 </h1>
 
-[![Website](https://img.shields.io/badge/Website-marcu.sh-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://marcu.sh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thejal%20M-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejal-m/)
-[![Gmail](https://img.shields.io/badge/Gmail-thejal.m@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:thejal.m@gmail.com?subject=Hey!)
+[![HackerRank](https://img.shields.io/badge/HackerRank-thejalm-informational?style=flat-square&color=00EA64&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/thejalm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thejal%20M-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejal-murali-a4a014282/)
+[![Gmail](https://img.shields.io/badge/Gmail-vv2004thejal@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:vv2004thejal@gmail.com?subject=Hey!)
 
 <br>
 
 # Hi there <img src="https://raw.githubusercontent.com/marcushash/marcushash/main/wave.gif" width="30px">
 
-I'm Thejal M, also known as `marcushash` on GitHub. I’m passionate about cybersecurity and fitness. 
+I'm Thejal M, also known as `marcushash` on GitHub. I’m currently pursuing a B.Sc. in Information Technology with a specialization in Data Science.
 
-💻 My expertise includes [Your Key Skills or Technologies related to cybersecurity].
+💻 My expertise includes:
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-💪 When I'm not diving into security challenges, you’ll find me at the gym, lifting weights and staying fit.
+💪 When I'm not diving into coding challenges, you’ll find me at the gym, lifting weights and staying fit.
 
 If you appreciate my work, feel free to buy me a coffee! 👉👈
 
