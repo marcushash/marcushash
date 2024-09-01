@@ -29,11 +29,12 @@ If you appreciate my work, feel free to buy me a coffee! 👉👈
 
 <a href="https://buymeacoffee.com/marcushash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-## Contribution Graph
+## Contribution Graph 🎮
 
-![Snake GIF](https://github.com/marcushash/marcushash/blob/output/github-contribution-grid-snake.gif)
-![Dark Mode Snake SVG](https://github.com/marcushash/marcushash/blob/output/github-snake-dark.svg)
-![Light Mode Snake SVG](https://github.com/marcushash/marcushash/blob/output/github-snake.svg)
+Here is a visual representation of my contributions:
+
+![Snake GIF](https://github.com/marcushash/marcushash/blob/output/github-contribution-grid-snake.gif)  
+📊 ![Dark Mode Snake SVG](https://github.com/marcushash/marcushash/blob/output/github-snake-dark.svg)  
 
 <h2 style="text-align: center;">👨‍💻 Repositories 👨‍💻</h2>
 
