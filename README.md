@@ -27,7 +27,7 @@ I'm Thejal M, also known as `marcushash` on GitHub. I’m currently pursuing a B
 
 If you appreciate my work, feel free to buy me a coffee! 👉👈
 
-<a href="https://buymeacoffee.com/marcushash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://ko-fi.com/marcushash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <h2>🎶 Feel Free To Listen 🎵</h2>
 
