@@ -45,8 +45,8 @@ Check out my Spotify profile and enjoy some tunes:
 <h2 style="text-align: center;">👨‍💻 Repositories 👨‍💻</h2>
 
 <p align="center">
-  <a href="https://github.com/marcushash/CODSOFT">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=marcushash&repo=CODSOFT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="CODSOFT"/>
+  <a href="https://github.com/marcushash/Hackintosh-EFI-i3-3210-GT710">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=marcushash&repo=Hackintosh-EFI-i3-3210-GT710&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Hackintosh EFI i3-3210 GT710"/>
   </a>
   <a href="https://github.com/marcushash/ASUS-TUF-A15-HACKINTOSH">
     <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=marcushash&repo=ASUS-TUF-A15-HACKINTOSH&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="ASUS TUF A15 Hackintosh"/>
